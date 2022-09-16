@@ -1,3 +1,5 @@
+This is a project to create a social media site in which people can upload photos, comments, scroll their feed and like other peoples photos.
+
 # Install
 
 `npm install`
@@ -18,3 +20,5 @@
 # Run
 
 `npm start`
+
+
